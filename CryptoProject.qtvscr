@@ -1,0 +1,462 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2025-01-14 15:36:04",
+  "files": {
+    "C:\\IV God\\Zastita\\CryptoProject\\CryptoProject.vcxproj": {
+      "before": "7Vl7T+M4EN+/V7qvcKqiXQF/0JS2PHZJs2JTFqErj6WwSCck5CZu690kjmyHpXd7n+u+3o0Tx0n6IFTcAYcWqUixZ8bjn8fz8t+/vnplfbgN/NoNZpzQsGNs1BtGDYcu9Ug46hixGK7vGB/sX15bp4x+xa6odfEQxb44R2yEBe8YH2Pie0YNpITwNRYiem+a3B3jAPF6QFxGOR2KuksD08M32KcRZmbAB5LNbDYaLQOk12rWocDBAaNxVOuhAfY7hlrQoeGQjGKGBCjIU2IgnzdbOwxdP/Zwx+jiQTz6cUnCVjPjAJ6SKDuhsczyoFRF/lmnPhJDygI7EWKZ+julgIEUj3nsFcqdYR8jjivUU1RPoWCK3u1W+6HYgYj/BLm7VLs3bksqZ5naQlODBQMAUxaTktEe+HSA/NxMvzjKTr6kN8ze2K43LHNmWFnVb3jynTIvNTrJaZnZkKJQ4g5i4tl/DptbWw20jdffbb7bXG+3vZ11NGgP1xutwdDbbqPmELX+0qaa8CgxZ5SKYxRgHiEX2w6bRIIq0ZZZnlQccA88+p2n9z67DXpXDbmrO0mkmESVHDR18YOIMlFTq3eMN6tfHOVdTpEYr10daSfiRFFd+Z96BPBzo2bOOwy4lB6R/qJjrLxZLV3RtR9vVjPt11Y6nZWCq1gxMt9TYsluQdl/nE8ibO9FkU/cxDVNXdRkWkF3wXGySo8MGGIEc1uwGFvm7LhiyBQ8p9TnWNg3G+1WfpGyUUXsjBFDrsCsD5QXIQHfDbJLowuxB9Dz46gtA1vJiT0ecEO4XP8acpdj6mOAYMRQcBIJEpA/kqNUx7Nw+kmB18758UB/OdYKPv/xYHsptnq4nIMuO+aUuRQj928FDmW6CQ5LQJqpoiUE2GShhLYYGkrMffB22Etd8v04Mh/XH2NIWI2lvFwpOCQ6QRCbxQMcOZNBs0vYdLgqRJt6DGRZ3Cr4WnxLuOCrEKmWlrOypkNWj7rIh3jURQJl8UOHx3tB+xCgpsLBT6h0ybIg4Ug80U+YFsOUWdTLAyq7ZyW/Jq/+EZLVsr60st6AbJeESSqbUhfcxnKZbWZqju/QICI+VgPgzy4RC8EN92R1bif/IdksDaYJD5D2uz1njN1vKkPSn5rglGHw/y7mnLJcd25fHh63mrvX3f2PFwe7187Jcf+kt7/7dnUB/ZqsFOZL0kvJHB0KdBS6+AhSXqXS9KjK1czpfVs9En7LMejHg/6EA+A2COCQFlpmPqSXPMAhhkZEms0fpsvLMkOtvXA6U0KvmRaTOUDFmPfAU8/uTdK3WMlrlwed+6c4dOVGE+uQuwB7UZueO6UROwwFIxDs3Ywsq33mTGgmbVZp4qk/NcEi20it7Ph/bmX7IRr42Dk56u6df6K+7MQprOfNaFBUBYPP8BAzaOHpMnPOhGZaaLIp9AunUwGW+RgWXah4ntiLPZn/AtfbQ+EoRiPcFyj0EPSIuPDcKNrYhkOYntLHu+elfRDkq9YoZKjQxKVJE8J5f/VZXG3Vd+obVwG/cZuNZvN6q31F0i4qTF4STzZ5dysoLfPOdeZoI00S/Kxt/u6+v752Iz/m8ld7u5pLUjQQCmbGMjN4Dl4djibXr4sjHHpw+WST5ztvXreadZ8Mdj+LLYWl/Hwtvx3KsP6A1lxCV9x/UVYJhOJEHsFyJdI206R41OX15fLZigVNFh6z3EFRs9kFSvrNTuvzegx3kQXAUuI4Hf6XS3uy4PXMw9/PwPf8Al+e2YHJaSvMX6r2Npt1cONZ0j+fyPEJDuENrZKu2MevJu/SGBKNc4ZCHlGeVBkOicbQpKhc6RNUEGnCfIkEPPbdg+UIkTB9IagWf9Td3PNH1XR9zODpskg380xTfrVJ8FWxsHwI49IRzJCoI6igWoxoBeN+6Mqzk00xISuM0aRewTF7AhUMBfwrKBWqmmoW0+U6giJ9K84AVg20Uvmre4Lq5Wd+g08/Zdn/AA==",
+      "after": "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"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2025-01-14 15:36:04</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Converting custom build steps to Qt/MSBuild items]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalIncludeDirectories>C:\Qt\6]]></Span><Span><![CDATA[.8.1\msvc2022_64\include\QtWidgets;C:\Qt\6.8.1\msvc2022_64\include</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;C:\Qt\6]]></Span><Span><![CDATA[.8.1\msvc2022_64\include\QtWidgets;C:\Qt\6.8.1\msvc2022_64\include</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\IV God\Zastita\CryptoProject\CryptoProject.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--YQ1+hXGPCHDFqf0jb+HRFbVb5naY6qWU8FtmdZRyH/0=-->
